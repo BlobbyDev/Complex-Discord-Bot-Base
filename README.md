@@ -1,2 +1,3 @@
-# Discord-Bot-Hosting-code-
-Note  : These this is just the code for only making the bot online to add the features you need to code the commands by yourself !!
+# Complex Discord Bot Base 
+
+This is just the base of a complex discord bot I don't wanna give details of this cuz this bot is meant for the people who knows js very well so yeah sorr for it :(
